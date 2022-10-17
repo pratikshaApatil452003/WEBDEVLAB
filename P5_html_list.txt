@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> list tag </title>
+</head>
+<body style="background-color:skyblue" >
+    <h1 style="background-color: aqua;  text-align:center; font-size=15"> Lets  Learn To List</h1>
+
+    <h1 style="background-color:pink"> Ordered List </h1>
+    <ol type="a">
+        <li> html </li>
+        <li> c programming </li>
+    </ol>
+    <ol type="A">
+        <li> html </li>
+        <li> c programming </li>
+    </ol>
+    <ol type="1">
+        <li> html </li>
+        <li> c programming </li>
+    </ol>
+    <ol type="i">
+        <li> html </li>
+        <li> c programming </li>
+    </ol> 
+    <ol type="I">
+        <li> html </li>
+        <li> c programming </li>
+    </ol> 
+     
+    <h1 style="background-color: pink;">Unordered List </h1>
+    <ul type="circle">
+        <li> html </li>
+        <li> c programming </li>
+    </ul>
+
+    <ul type="disc">
+        <li> html </li>
+        <li> c programming </li>
+    </ul>  
+
+    <ul type="square">
+        <li> html </li>
+        <li> c programming </li>
+    </ul>
+    <h1 style="background-color:pink;">Description List</h1>
+    <dl>
+        <dt> FY BCA </dt>
+        <dd> It is my discription list</dd>
+    </dl>    
+</body>
+</html>

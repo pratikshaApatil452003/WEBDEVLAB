@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="skyblue">
+    <h1>marquee behavior</h1>
+    <hr>
+    <h2>scrolling</h2>
+    <marquee behavior="scrolling" direction="up" bgcolor="yellow">Scrolling upwards</marquee>
+    <marquee behavior="scrolling" direction="down" bgcolor="lightgreen">Scrolling downwards</marquee>
+    <marquee behavior="scrolling" direction="left" bgcolor="yellow">Scrolling left</marquee>
+    <marquee behavior="scrolling" direction="right" bgcolor="lightgreen">Scrolling right</marquee>
+    <h2>sliding</h2>
+    <marquee behavior="slide"  bgcolor="pink">we sre sliding</marquee>
+    <h2>alternative</h2>
+    <marquee behavior="alternative"  bgcolor="pink">this is alternative</marquee>
+</body>
+</html>

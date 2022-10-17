@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+            <title>exp6</title>
+</head>
+ <body bgcolor="pink">
+            <h1 style="text-align:center ;background-color: aqua;">We are learning linking</h1>
+            <hr>
+            <h2 style="background-color:yellow">There are basically two types of linking:<br></h2><hr>
+            <h3>
+           <strong> <em> i.Internal Linking </em></strong><br>
+            <a href="#lin">Linkedin</a> <br>
+            <a href="#git">Github</a> <br>
+            <hr>
+           <strong> <em>ii. External Linking</em></strong><br>
+            let's us use target attribute <br>
+            <a href="https://www.linkedin.com/in/pratiksha-patil-953442249"> Link to my linkedin account</a><br>
+            <a href="https://github.com/pratikshaApatil452003"> Link to my github account</a></h3><hr>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br> 
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br><br><br>
+            <h1 id="lin">Linkedin</h1>
+            <h2>
+            <p> 
+                What is LinkedIn?
+               LinkedIn is a popular social network with a specific purpose. While other social networks like Facebook and Twitter 
+               focus more on your personal life, LinkedIn is all about professional networking—that is, building a group of contacts
+               to help advance your career.
+               Why use LinkedIn?
+               More and more businesses use LinkedIn to screen and recruit potential employees. This is why creating a LinkedIn
+               account can make a difference when searching for your next job. Once you've signed up, you can add information to
+               your profile page, which is a brief summary of your skills and employment history that effectively serves as an
+               online resume. 
+
+
+
+
+            </p>
+            </h2>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <h1 id="git">Github</h1>
+            <h2>
+                <p>
+            
+
+                    What Is GitHub?
+                     A Beginner’s Introduction to GitHub At a high level, GitHub is a website and cloud-based service that helps developers
+                     store and manage their code, as well as track and control changes to their code. To understand exactly what GitHub is, 
+                     you need to know two connected principles
+                     What do I need to know to learn GitHub?
+                     GitHub is not a programming language, so you don't need to much worry about essential knowledge.
+                     You should be familiar with modern tools. Our GitHub tutorial is designed to help beginners and professionals.
+                     We assure you that you will not find any issue with this GitHub tutorial.
+
+
+                </p>
+            </h2>
+            
+ </body>
+ </html>
+
+
+    
